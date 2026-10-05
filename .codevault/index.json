@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "solutions": [
+    {
+      "path": "HackerRank/C/Easy/Sum-and-Difference-of-Two-Numbers/Solution.c",
+      "metadata": {
+        "platform": "HackerRank",
+        "title": "Sum and Difference of Two Numbers",
+        "slug": "sum-numbers-c",
+        "difficulty": "Easy",
+        "language": "C",
+        "url": "https://www.hackerrank.com/challenges/sum-numbers-c/problem?isFullScreen=false",
+        "solvedAt": "2026-10-05T18:03:13.000Z",
+        "patterns": [],
+        "topics": [
+          "Math"
+        ],
+        "tags": [
+          "Math"
+        ]
+      },
+      "solvedAt": "2026-10-05T18:03:13.000Z"
+    }
+  ]
+}
