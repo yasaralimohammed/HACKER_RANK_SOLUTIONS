@@ -10,9 +10,9 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 4 |
+| 🏆 Total Solved | 5 |
 | 🔵 Basic | 0 |
-| 🟢 Easy | 4 |
+| 🟢 Easy | 5 |
 | 🟠 Medium | 0 |
 | 🔴 Hard | 0 |
 
@@ -20,10 +20,10 @@
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/4 |
-| 🟢 Easy | ████████████████████ 100% | 4/4 |
-| 🟠 Medium | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/4 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/4 |
+| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/5 |
+| 🟢 Easy | ████████████████████ 100% | 5/5 |
+| 🟠 Medium | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/5 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/5 |
 
 ## 🔥 Coding Activity
 
@@ -41,18 +41,19 @@ _No pattern data yet._
 
 | Language | Problems |
 | --- | ---: |
-| C | 4 |
+| C | 5 |
 
 ## 🌐 Platforms
 
 | Platform | Problems |
 | --- | ---: |
-| HackerRank | 4 |
+| HackerRank | 5 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Bitwise Operators](HackerRank/C/Easy/Bitwise-Operators/README.md) | Easy | C | HackerRank |
 | [Conditional Statements in C](HackerRank/C/Easy/Conditional-Statements-in-C/README.md) | Easy | C | HackerRank |
 | [For Loop in C](HackerRank/C/Easy/For-Loop-in-C/README.md) | Easy | C | HackerRank |
 | [Functions in C](HackerRank/C/Easy/Functions-in-C/README.md) | Easy | C | HackerRank |

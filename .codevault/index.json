@@ -68,6 +68,22 @@
         "tags": []
       },
       "solvedAt": "2026-10-05T18:06:52.000Z"
+    },
+    {
+      "path": "HackerRank/C/Easy/Bitwise-Operators/Solution.c",
+      "metadata": {
+        "platform": "HackerRank",
+        "title": "Bitwise Operators",
+        "slug": "bitwise-operators-in-c",
+        "difficulty": "Easy",
+        "language": "C",
+        "url": "https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem?isFullScreen=true",
+        "solvedAt": "2026-10-05T18:08:34.000Z",
+        "patterns": [],
+        "topics": [],
+        "tags": []
+      },
+      "solvedAt": "2026-10-05T18:08:34.000Z"
     }
   ]
 }
