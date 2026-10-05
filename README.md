@@ -10,9 +10,9 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 3 |
+| 🏆 Total Solved | 4 |
 | 🔵 Basic | 0 |
-| 🟢 Easy | 3 |
+| 🟢 Easy | 4 |
 | 🟠 Medium | 0 |
 | 🔴 Hard | 0 |
 
@@ -20,10 +20,10 @@
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/3 |
-| 🟢 Easy | ████████████████████ 100% | 3/3 |
-| 🟠 Medium | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/3 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/3 |
+| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/4 |
+| 🟢 Easy | ████████████████████ 100% | 4/4 |
+| 🟠 Medium | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/4 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/4 |
 
 ## 🔥 Coding Activity
 
@@ -41,18 +41,19 @@ _No pattern data yet._
 
 | Language | Problems |
 | --- | ---: |
-| C | 3 |
+| C | 4 |
 
 ## 🌐 Platforms
 
 | Platform | Problems |
 | --- | ---: |
-| HackerRank | 3 |
+| HackerRank | 4 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Conditional Statements in C](HackerRank/C/Easy/Conditional-Statements-in-C/README.md) | Easy | C | HackerRank |
 | [For Loop in C](HackerRank/C/Easy/For-Loop-in-C/README.md) | Easy | C | HackerRank |
 | [Functions in C](HackerRank/C/Easy/Functions-in-C/README.md) | Easy | C | HackerRank |
 | [Sum and Difference of Two Numbers](HackerRank/C/Easy/Sum-and-Difference-of-Two-Numbers/README.md) | Easy | C | HackerRank |

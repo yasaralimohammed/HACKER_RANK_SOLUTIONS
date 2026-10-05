@@ -52,6 +52,22 @@
         "tags": []
       },
       "solvedAt": "2026-10-05T18:05:29.000Z"
+    },
+    {
+      "path": "HackerRank/C/Easy/Conditional-Statements-in-C/Solution.c",
+      "metadata": {
+        "platform": "HackerRank",
+        "title": "Conditional Statements in C",
+        "slug": "conditional-statements-in-c",
+        "difficulty": "Easy",
+        "language": "C",
+        "url": "https://www.hackerrank.com/challenges/conditional-statements-in-c/problem?isFullScreen=true",
+        "solvedAt": "2026-10-05T18:06:52.000Z",
+        "patterns": [],
+        "topics": [],
+        "tags": []
+      },
+      "solvedAt": "2026-10-05T18:06:52.000Z"
     }
   ]
 }
