@@ -20,6 +20,22 @@
         ]
       },
       "solvedAt": "2026-10-05T18:03:13.000Z"
+    },
+    {
+      "path": "HackerRank/C/Easy/Functions-in-C/Solution.c",
+      "metadata": {
+        "platform": "HackerRank",
+        "title": "Functions in C",
+        "slug": "functions-in-c",
+        "difficulty": "Easy",
+        "language": "C",
+        "url": "https://www.hackerrank.com/challenges/functions-in-c/problem?isFullScreen=true",
+        "solvedAt": "2026-10-05T18:04:20.000Z",
+        "patterns": [],
+        "topics": [],
+        "tags": []
+      },
+      "solvedAt": "2026-10-05T18:04:20.000Z"
     }
   ]
 }
