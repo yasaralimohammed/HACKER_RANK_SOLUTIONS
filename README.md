@@ -10,9 +10,9 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 2 |
+| 🏆 Total Solved | 3 |
 | 🔵 Basic | 0 |
-| 🟢 Easy | 2 |
+| 🟢 Easy | 3 |
 | 🟠 Medium | 0 |
 | 🔴 Hard | 0 |
 
@@ -20,10 +20,10 @@
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/2 |
-| 🟢 Easy | ████████████████████ 100% | 2/2 |
-| 🟠 Medium | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/2 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/2 |
+| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/3 |
+| 🟢 Easy | ████████████████████ 100% | 3/3 |
+| 🟠 Medium | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/3 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/3 |
 
 ## 🔥 Coding Activity
 
@@ -41,18 +41,19 @@ _No pattern data yet._
 
 | Language | Problems |
 | --- | ---: |
-| C | 2 |
+| C | 3 |
 
 ## 🌐 Platforms
 
 | Platform | Problems |
 | --- | ---: |
-| HackerRank | 2 |
+| HackerRank | 3 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [For Loop in C](HackerRank/C/Easy/For-Loop-in-C/README.md) | Easy | C | HackerRank |
 | [Functions in C](HackerRank/C/Easy/Functions-in-C/README.md) | Easy | C | HackerRank |
 | [Sum and Difference of Two Numbers](HackerRank/C/Easy/Sum-and-Difference-of-Two-Numbers/README.md) | Easy | C | HackerRank |
 
