@@ -2,15 +2,11 @@
 #include <string.h>
 #include <math.h>
 #include <stdlib.h>
-
 int main() 
 {
     int a, b;
     scanf("%d\n%d", &a, &b);
-
-    // Array storing word representations for 1 through 9
     char *words[] = {"", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
-
     for (int i = a; i <= b; i++) {
         if (i >= 1 && i <= 9) {
             printf("%s\n", words[i]);
@@ -20,7 +16,6 @@ int main()
             printf("odd\n");
         }
     }
-
     return 0;
 }
 
